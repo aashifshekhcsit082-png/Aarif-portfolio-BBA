@@ -9,7 +9,7 @@ export default function Hero() {
         <p className="hero-greeting">Hi, I'm</p>
 
         <h1 className="hero-title">
-          Junaid Ahmed <span>Bhatti</span>
+          MS AARIF RAZA SHEKH <span>Bhatti</span>
         </h1>
 
         <h2 className="hero-subtitle">
